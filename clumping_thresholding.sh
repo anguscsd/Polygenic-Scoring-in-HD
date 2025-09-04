@@ -2,9 +2,9 @@
 echo "loading plink"
 echo
 module load plink/1.9
-LDref="/home/c.c2019487/met584/data/gwas/Data_for_Angus/GWA345_LD_reference" # path to GWA345 Linkage Disequilibrium reference 
-test="/home/c.c2019487/met584/data/gwas/Data_for_Angus/GWA6_test_sample" # path to GWA6 test sample
-sumstat="/home/c.c2019487/met584/data/gwas/Data_for_Angus/Cell_2019_residual_AA$ # path to summary statistics (AAO data)
+LDref="/home/c.cxxxxxxx/met584/data/gwas/Data_for_Angus/GWA345_LD_reference" # path to GWA345 Linkage Disequilibrium reference 
+test="/home/c.cxxxxxxx/met584/data/gwas/Data_for_Angus/GWA6_test_sample" # path to GWA6 test sample
+sumstat="/home/c.cxxxxxxx/met584/data/gwas/Data_for_Angus/Cell_2019_residual_AAO # path to summary statistics (AAO data)
 # Clumping
 echo "clumping"
 echo
