@@ -3,7 +3,6 @@
 This repository contains the report and analysis code for my Master’s case study project:
 
 **Comparative Analysis of Polygenic Scores' Predictive Ability on Age at Onset in an Enroll-HD GWAS Cohort of Huntington's Disease Patients**  
-Word Count: ~2000
 
 ## Overview
 
@@ -35,6 +34,8 @@ The analysis evaluates how well these methods predict **residual AAO** (the port
    - Outcome: residual AAO (after adjusting for CAG length)  
    - Covariates: sex and 4 principal components  
    - Model fit assessed via R², AIC, BIC  
+
+> All scripts were run in the command line using Cardiff University super computer HAWK for efficient processing
 
 ## Key Findings
 
